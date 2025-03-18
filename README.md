@@ -1,5 +1,5 @@
 # Clone repository
-git clone <[repository-url](https://github.com/comeheretnt/Hekate_Intern/new/master?filename=README.md)>
+git clone <https://github.com/comeheretnt/Hekate_Intern>
 cd <repository-folder>
 
 # Backend setup
